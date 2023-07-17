@@ -29,4 +29,8 @@ https://ep2023.europython.eu/wai
 - Feature Engineering
 - Logistic Regression and Decision Trees
 - Evaluation Techniques for Classification
-## Conclusion
+
+## Resources
+- Gradient Descent - https://www.youtube.com/watch?v=sDv4f4s2SB8
+- Hyperparameter Tuning - https://medium.com/@cjl2fv/an-intro-to-hyper-parameter-optimization-using-grid-search-and-random-search-d73b9834ca0a
+- Feature Scaling, transformation and normalization - https://www.youtube.com/watch?v=mnKm3YP56PY
